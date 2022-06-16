@@ -1,0 +1,1 @@
+{"name":"Local: dispal","url":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\starters 43\\dispal.py","tests":[{"id":1655306374032,"input":"5\n1 1\n2 1\n3 3\n4 2\n6 3","output":"z\naa\n-1\nxyyx"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\starters 43\\dispal.py","group":"local","local":true}
