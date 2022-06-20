@@ -1,0 +1,1 @@
+{"name":"Local: avg","url":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\practice\\avg.cpp","tests":[{"id":1655709369681,"input":"3\n3 3 4\n2 7 3\n3 1 4\n7 6 5\n3 3 4\n2 8 3","output":"4\n-1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\practice\\avg.cpp","group":"local","local":true}
