@@ -1,0 +1,1 @@
+{"name":"Local: recndstr","url":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\practice\\recndstr.cpp","tests":[{"id":1655732759303,"input":"4\na\nab\nabcd\naaaaa","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\practice\\recndstr.cpp","group":"local","local":true}

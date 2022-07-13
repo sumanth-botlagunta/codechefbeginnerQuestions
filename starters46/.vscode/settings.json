@@ -30,7 +30,6 @@
   ],
   "files.associations": {
     "*.js": "javascript",
-    "ostream": "cpp",
-    "iostream": "cpp"
+    "ostream": "cpp"
   }
 }

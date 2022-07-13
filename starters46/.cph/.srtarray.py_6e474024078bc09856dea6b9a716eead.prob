@@ -1,0 +1,1 @@
+{"name":"Local: srtarray","url":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\starters46\\srtarray.py","tests":[{"id":1657124169258,"input":"4\n3\n000\n4\n1001\n4\n1010\n6\n010101\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\suman\\OneDrive\\Documents\\codechef\\starters46\\srtarray.py","group":"local","local":true}
